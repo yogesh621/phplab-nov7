@@ -1,0 +1,15 @@
+
+
+
+
+
+
+
+
+?>
+$ages = array(
+"john" => 34,
+"marry" => 27,
+"bob" => 55 );
+echo $ages["bob"];
+array_pop($ages);
